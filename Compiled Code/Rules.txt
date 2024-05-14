@@ -1,0 +1,6 @@
+Click, drag back and release the curling stones to throw them
+Once a stone is thrown you can scratch up the ice to increase friction and curve stones by left clicking on the ice with a short cooldown
+
+There are two teams, blue and red whos scores are displayed at the end of the match
+The closer to the centre of the target a stone is, the more points the team receives at the end of the match
+Scores are calculated at the very end of the match so it is onlt the stones final position that affects their score
